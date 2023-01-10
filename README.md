@@ -10,7 +10,7 @@ This is a real-time chat application built with React and Socket.io.
 
 ### Getting Started
 Clone the repository:
-git clone https://github.com/AhmetK07/ReactAppRealTime.git
+git clone https://github.com/emrecanuzum/SecureChadReact.git
 
 Install the dependencies:
 npm install
