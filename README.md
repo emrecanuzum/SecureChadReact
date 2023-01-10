@@ -48,3 +48,7 @@ Mongoose
 MongoDb
 Cypress
 Google Lighthouse
+
+
+### Note
+This project is the final project of the "Software Development with Standards" course. Thanks to my project friends Ahmet Kaan Memioğlu and Şükrü Erim Sinal
